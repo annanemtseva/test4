@@ -1,7 +1,30 @@
-<h1>{{knot.title}}</h1>
-<div *ngIf="knot.children.length">
+<div class="list-block">
+<div class="list">
+  <div *ngIf="knot.children.length">
+  <svg class="icon" [ngStyle]="{'fill': knot.color}" [@icon]='iconState'>
+    <use xlink:href="#arrow"></use>
+  </svg>
+  </div>
+  <p>{{knot.title}}</p>
+  <p *ngIf="knot.children.length"> ({{knot.children.length}})</p>
+</div>
+<div *ngIf="visibilityBranch" class="knot" [@knot]='knotState' >
   <ul *ngFor="let branchChildren of knot.children">
-    <app-knot [knot]="branchChildren"></app-knot>
+    <li>
+      <a href="#" [ngStyle]="{'color': branchChildren.color}">
+        <app-knot [knot]="branchChildren"></app-knot>
+      </a>
+    </li>
   </ul>
 </div>
+</div>
+
+<svg display="none">
+  <symbol id="arrow" viewBox="0 0 6 16">
+    <g>
+      <path fill-rule="evenodd" d="M0 14l6-6-6-6v12z"/>
+    </g>
+  </symbol>
+
+</svg>
 
