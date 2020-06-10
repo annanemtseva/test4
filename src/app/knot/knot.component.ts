@@ -42,6 +42,7 @@ import {animate, state, style, transition, trigger} from '@angular/animations';
 export class KnotComponent implements OnInit {
   @Input() knot: Tree;
   @Input() visibilityBranch: boolean;
+  @Input() parent: Tree;
   iconState = 'start';
   knotState = 'start';
 
@@ -49,6 +50,18 @@ export class KnotComponent implements OnInit {
   }
 
   ngOnInit() {
+  }
+
+  toggleChildrenVisibility() {
+    if (this.visibilityBranch) {
+      this.iconState = 'start';
+      this.knotState = 'start';
+      this.visibilityBranch = false;
+    } else {
+      this.iconState = 'end';
+      this.knotState = 'end';
+      this.visibilityBranch = true;
+    }
   }
 
   @HostListener('click', ['$event']) onClick(event: Event) {
@@ -62,6 +75,23 @@ export class KnotComponent implements OnInit {
       this.knotState = 'end';
       this.visibilityBranch = true;
     }
+  }
+
+  addChildren(event: Event) {
+    const children = this.knot.children;
+    const isEmpty = children.length === 0;
+    children.push({title: '', color: '#000000', children: []});
+    if (isEmpty) {
+      this.toggleChildrenVisibility();
+    }
+    event.stopPropagation();
+  }
+
+  removeChildren(event: Event) {
+    this.parent.children.splice(this.parent.children.findIndex((select: Tree) => {
+      return select.title === this.knot.title;
+    }), 1);
+    event.stopPropagation();
   }
 
 }

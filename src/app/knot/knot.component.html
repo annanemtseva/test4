@@ -1,22 +1,26 @@
 <div class="list-block">
-<div class="list">
-  <div *ngIf="knot.children.length">
-  <svg class="icon" [ngStyle]="{'fill': knot.color}" [@icon]='iconState'>
-    <use xlink:href="#arrow"></use>
-  </svg>
+  <div class="list">
+    <!--  <div *ngIf="knot.children.length" (click)="toggleChildrenVisibility()">-->
+    <div *ngIf="knot.children.length">
+      <svg class="icon" [ngStyle]="{'fill': knot.color}" [@icon]='iconState'>
+        <use xlink:href="#arrow"></use>
+      </svg>
+    </div>
+    <p>{{knot.title}}</p>
+    <p *ngIf="knot.children.length"> ({{knot.children.length}})</p>
+    <input *ngIf="knot.title.length === 0">
+    <button type="button" (click)="addChildren($event)">добавить</button>
+    <button type="button" *ngIf="parent" (click)="removeChildren($event)">удалить</button>
   </div>
-  <p>{{knot.title}}</p>
-  <p *ngIf="knot.children.length"> ({{knot.children.length}})</p>
-</div>
-<div *ngIf="visibilityBranch" class="knot" [@knot]='knotState' >
-  <ul *ngFor="let branchChildren of knot.children">
-    <li>
-      <a href="#" [ngStyle]="{'color': branchChildren.color}">
-        <app-knot [knot]="branchChildren"></app-knot>
-      </a>
-    </li>
-  </ul>
-</div>
+  <div *ngIf="visibilityBranch" class="knot" [@knot]='knotState'>
+    <ul *ngFor="let branchChildren of knot.children">
+      <li>
+        <a href="#" [ngStyle]="{'color': branchChildren.color}">
+          <app-knot [knot]="branchChildren" [parent]="knot"></app-knot>
+        </a>
+      </li>
+    </ul>
+  </div>
 </div>
 
 <svg display="none">
