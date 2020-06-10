@@ -1,15 +1,15 @@
 <div class="list-block">
   <div class="list">
-    <!--  <div *ngIf="knot.children.length" (click)="toggleChildrenVisibility()">-->
-    <div *ngIf="knot.children.length">
+      <div *ngIf="knot.children.length" (click)="toggleChildrenVisibility()">
+<!--    <div *ngIf="knot.children.length">-->
       <svg class="icon" [ngStyle]="{'fill': knot.color}" [@icon]='iconState'>
         <use xlink:href="#arrow"></use>
       </svg>
     </div>
     <p>{{knot.title}}</p>
     <p *ngIf="knot.children.length"> ({{knot.children.length}})</p>
-    <input *ngIf="knot.title.length === 0">
-    <button type="button" (click)="addChildren($event)">добавить</button>
+    <input *ngIf="knot.title.length === 0" (keyup.enter)="addTitle($event)">
+    <button *ngIf="knot.title.length > 0" type="button" (click)="addChildren($event)">добавить</button>
     <button type="button" *ngIf="parent" (click)="removeChildren($event)">удалить</button>
   </div>
   <div *ngIf="visibilityBranch" class="knot" [@knot]='knotState'>

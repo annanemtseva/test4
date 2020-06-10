@@ -64,26 +64,19 @@ export class KnotComponent implements OnInit {
     }
   }
 
-  @HostListener('click', ['$event']) onClick(event: Event) {
-    event.stopPropagation();
-    if (this.visibilityBranch) {
-      this.iconState = 'start';
-      this.knotState = 'start';
-      this.visibilityBranch = false;
-    } else {
-      this.iconState = 'end';
-      this.knotState = 'end';
-      this.visibilityBranch = true;
-    }
-  }
-
   addChildren(event: Event) {
     const children = this.knot.children;
-    const isEmpty = children.length === 0;
-    children.push({title: '', color: '#000000', children: []});
-    if (isEmpty) {
-      this.toggleChildrenVisibility();
+    const isEmptyElemPresent = children.find((select: Tree) => {
+      return select.title.length === 0;
+    });
+    if (!isEmptyElemPresent) {
+      const isEmpty = children.length === 0;
+      children.push({title: '', color: '#000000', children: []});
+      if (isEmpty) {
+        this.toggleChildrenVisibility();
+      }
     }
+
     event.stopPropagation();
   }
 
@@ -94,4 +87,8 @@ export class KnotComponent implements OnInit {
     event.stopPropagation();
   }
 
+  addTitle(event: Event) {
+    this.knot.title = event.target.value;
+    console.log(this.knot.title);
+  }
 }
