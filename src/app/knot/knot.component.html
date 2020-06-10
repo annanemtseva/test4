@@ -1,4 +1,4 @@
-<p>{{knot.title}}</p>
+<h1>{{knot.title}}</h1>
 <div *ngIf="knot.children.length">
   <ul *ngFor="let branchChildren of knot.children">
     <app-knot [knot]="branchChildren"></app-knot>
