@@ -1,6 +1,13 @@
-<ul *ngFor="let branch of tree">
-  <div [ngStyle]="{'color': branch.color}">
-    <app-knot [knot]="branch"></app-knot>
+<div class="tree-block">
+  <button type="button" (click)="openCategories()" >Открыть категории</button>
+  <div *ngIf="isOpen" [@openingCategories] = 'openingCategories'>
+    <ul *ngFor="let branch of tree">
+      <li>
+        <a href="#" [ngStyle]="{'color': branch.color}">
+          <app-knot [knot]="branch" [visibilityBranch]="visibility">
+          </app-knot>
+        </a>
+      </li>
+    </ul>
   </div>
-</ul>
-
+</div>

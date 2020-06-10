@@ -1,0 +1,40 @@
+.list-block {
+  width: 400px;
+  margin: 0 auto;
+  border-left: dashed 1px;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  border-left: dashed 1px;
+  padding: 5px 0;
+
+  &:before {
+    content: '--';
+    margin-right: 5px;
+  }
+
+  p {
+    margin: 0;
+    font-size: 1.2rem;
+
+  }
+
+  p:last-child {
+    margin-left: 10px;
+  }
+}
+
+.knot {
+  ul {
+    padding: 0 15px;
+  }
+}
+
+.icon {
+  width: 6px;
+  height: 20px;
+  margin-right: 5px;
+}
