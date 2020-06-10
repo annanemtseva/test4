@@ -1,0 +1,1572 @@
+[
+  {
+    "title": "Недвижимость",
+    "color": "#d464de",
+    "children": [
+      {
+        "title": "Квартиры",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Дома",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Апартаменты",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Комнаты",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Коммерческая недвижимость",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Офисы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Отели",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Базы отдыха",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Койко-место",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Бани и сауны",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Фотостудии",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Коворкинг, антикафе",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Гаражи",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Земельные участки",
+        "color": "#94A8B4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Транспорт",
+    "color": "#b96be8",
+    "children": [
+      {
+        "title": "Легковые автомобили",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Audi",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Acura",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Alfa Romeo",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Aston-Martin",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "BMW",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Bentley",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Brilliance",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Cadillac",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Caterham",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "ChangFeng",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Chery",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Chevrolet",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Chrysler",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Citroen",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Dacia",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Daewoo",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Dodge",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Excalibur",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Fiat",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Ferrari",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Ford",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Geely",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Great Wall",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Honda",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Hyundai",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Hummer",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Koenigsegg",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Intrall",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Infinity",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Jaguar",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Jeep",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Jinbei",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "JMC",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Kia",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Land Rover",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Lamborghini",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Lexus",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Lincoln",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Maclaren",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mazda",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Maybach",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Microcar",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mini",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mitsubishi",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mitsuoka",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mercedes",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Morgan",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Nissan",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Oldsmobile",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Opel",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Pagani",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Panoz",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Peugeot",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Porsche",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Proton",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "PUCH",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Renault",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Rolls-Royce",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Roewe",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Seat",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Skoda",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Smart",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Ssang Yong",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Subaru",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Suzuki",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Tesla",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Toyota",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Volkswagen",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Volvo",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "ГАЗ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "ВАЗ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "ЗАЗ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "ИЖ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Москвич",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Таврия",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "УАЗ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Другие",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Грузовые автомобили",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Микроавтобусы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Тентованные",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Самосвалы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Бортовые",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Контейнеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Рефрижераторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Автокраны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Юмбо",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Изотермические",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Контейнерные площадки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Автоцистерны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Бетономешалки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Лесовозы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Зерновозы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Автовозы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Седельные тягачи",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Другие",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Электротранспорт",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Минибайки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Сигвеи",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Электросамокаты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Электроскутеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Гироборды",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Гироскутеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Моноколеса",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Электроскейты",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Мото",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Мотоциклы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Мопеды, скутеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Квадроциклы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Мото - прочее",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Мотоаксессуары",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Автодома, кэмперы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Воздушный транспорт",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Самолеты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Вертолеты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Дельтапланы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Другой",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Водный транспорт",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Лодки и аксессуары",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Надувные лодки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Лодки для активного отдыха и спорта",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Алюминиевые лодки и катера",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Пластиковые катера",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Катамараны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прицепы, лафеты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Лодочный мотор",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Насосы для надувных изделий",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары к лодкам",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Оборудование для лодок, катеров и яхт",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Другой транспорт",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Спецтехника",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Погрузчики",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Строительная техника",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Экскаваторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Коммунальная техника",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Бульдозеры, тракторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Оборудование для спецтехники",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая спецтехника",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Сельхозтехника",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Автобусы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Снегоходы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Прицепы и полуприцепы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Багажники",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Автооборудование",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Автоэлектроника",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Акустика и мультимедиа",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Автохолодильники",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Противоугонные устройства",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Внешний тюнинг",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Другие авто- и мототовары",
+        "color": "#94A8B4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Товары для детей",
+    "color": "#9575ed",
+    "children": [
+      {
+        "title": "Автокресла",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Детский транспорт",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Детские велосипеды",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Беговелы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Детские электромобили",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Педальные машины",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Машины-каталки и ходунки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Самокаты, ролики, скейты",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Детские коляски",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Детская мебель",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Кроватки, колыбели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Манежи, ограждения",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Стульчики",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Игрушки",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Эргорюкзаки, слинги, нагрудные сумки",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Детская одежда и обувь",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Одежда для новорожденных",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Одежда для девочек",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Одежда для мальчиков",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Детская обувь",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Детские весы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Товары для кормления",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Товары для школьников",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Молокоотсосы",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Развивающие коврики",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Видеоняни, радионяни",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Прочие детские товары",
+        "color": "#94A8B4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Электроника",
+    "color": "#5187ea",
+    "children": [
+      {
+        "title": "Фото, видео",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Видеокамеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары для фото, видеокамер",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Цифровые фотоаппараты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Объективы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Пленочные фотоаппараты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Экшн камеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары и комплектующие к экшн камерам",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Фотовспышки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Штативы и моноподы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Синхронизаторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Карты памяти",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аккумуляторы и питание",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Софтбоксы, отражатели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочее",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Фонари и студийный свет",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Игры и игровые приставки",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Приставки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Игры для приставок",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Игровые консоли",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Очки виртуальной реальности (VR)",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары и комплектующие",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Игры для PC",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Компьютеры и планшеты",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Планшетные компьютеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Ноутбуки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Мониторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Внешние накопители",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Серверы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Настольные компьютеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Периферийные устройства",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Комплектующие",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочие",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Дроны и квадрокоптеры",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Телефоны",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Мобильные телефоны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Стационарные телефоны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочие телефоны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Техника для кухни",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Блендеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Холодильники",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Кофеварки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Пароварки, мультиварки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Микроволновые печи",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Плиты и печи",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Морозильные камеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Холодильные витрины",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Электрочайники",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Кухонные комбайны, измельчители",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Мясорубки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Кофемолки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Посудомоечные машины",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Йогуртницы и мороженицы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Хлебопечки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая техника для кухни",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Техника для дома",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Пылесосы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Стиральные машины",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Пароочистители и паровые швабры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Утюги",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Отпариватели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Швейные машины и оверлоки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Вязальные машины",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Фильтры для воды",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая техника для дома",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Аудиотехника",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Акустические системы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Портативная акустика",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Радиоприемники",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Наушники",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Музыкальные центры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Магнитолы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Mp3 плееры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Cd-, md-, виниловые проигрыватели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Усилители, ресиверы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Рупоры, мегафоны, громкоговорители",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Микрофоны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая аудиотехника",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Тв, видеотехника",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Телевизоры и плазменные панели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Медиа проигрыватели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Проекторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Бесшовные видеопанели и проекционные экраны",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Спутниковое ТВ",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Системы стабилизации",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Аксессуары для ТВ, видео",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая ТВ, видеотехника",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Климатическое оборудование",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Кондиционеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Конвекторы и обогреватели",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Водонагреватели, бойлеры, колонки",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Воздухоочистители, увлажнители, ионизаторы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Осушители воздуха",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Вытяжки и вентиляция",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Котлы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Полотенцесушители",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Другое",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Электроника для спорта",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Секундомеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Фитнес-браслеты",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Спортивные часы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Шагомеры",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая спортивная электроника",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Рации",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Вендинговые аппараты",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Индивидуальный уход",
+        "color": "#94A8B4",
+        "children": [
+          {
+            "title": "Весы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Фены",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Бритвы",
+            "color": "#94A8B4",
+            "children": []
+          },
+          {
+            "title": "Прочая техника для индивидуального ухода",
+            "color": "#94A8B4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Аксессуары и комплектующие",
+        "color": "#94A8B4",
+        "children": []
+      },
+      {
+        "title": "Прочая электроника",
+        "color": "#94A8B4",
+        "children": []
+      }
+    ]
+  }
+]

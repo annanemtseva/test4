@@ -1,0 +1,6 @@
+<ul *ngFor="let branch of tree">
+  <div [ngStyle]="{'color': branch.color}">
+    <app-knot [knot]="branch"></app-knot>
+  </div>
+</ul>
+
