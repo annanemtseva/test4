@@ -1,6 +1,7 @@
 import {Component, HostListener, Input, OnInit} from '@angular/core';
 import {Tree} from '../app.component';
 import {animate, state, style, transition, trigger} from '@angular/animations';
+import {FormGroup} from '@angular/forms';
 
 @Component({
   selector: 'app-knot',
@@ -42,6 +43,7 @@ import {animate, state, style, transition, trigger} from '@angular/animations';
 export class KnotComponent implements OnInit {
   @Input() knot: Tree;
   @Input() visibilityBranch: boolean;
+  @Input() parent: Tree;
   iconState = 'start';
   knotState = 'start';
 
@@ -51,8 +53,7 @@ export class KnotComponent implements OnInit {
   ngOnInit() {
   }
 
-  @HostListener('click', ['$event']) onClick(event: Event) {
-    event.stopPropagation();
+  toggleChildrenVisibility() {
     if (this.visibilityBranch) {
       this.iconState = 'start';
       this.knotState = 'start';
@@ -63,5 +64,35 @@ export class KnotComponent implements OnInit {
       this.visibilityBranch = true;
     }
   }
+
+  addChildren(event: Event) {
+    const children = this.knot.children;
+    const isEmptyElemPresent = children.find((select: Tree) => {
+      return select.title.length === 0;
+    });
+    if (!isEmptyElemPresent) {
+      const isEmpty = children.length === 0;
+      children.push({title: '', color: '#000000', children: []});
+      if (isEmpty) {
+        this.toggleChildrenVisibility();
+      }
+    }
+
+    event.stopPropagation();
+  }
+
+  removeChildren(event: Event) {
+    this.parent.children.splice(this.parent.children.findIndex((select: Tree) => {
+      return select.title === this.knot.title;
+    }), 1);
+    event.stopPropagation();
+  }
+
+  addTitle(event: Event) {
+    this.knot.title = event.target.value;
+    console.log(this.knot.title);
+  }
+
+
 
 }
