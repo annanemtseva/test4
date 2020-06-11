@@ -1,6 +1,7 @@
 import {Component, HostListener, Input, OnInit} from '@angular/core';
 import {Tree} from '../app.component';
 import {animate, state, style, transition, trigger} from '@angular/animations';
+import {FormGroup} from '@angular/forms';
 
 @Component({
   selector: 'app-knot',
@@ -91,4 +92,7 @@ export class KnotComponent implements OnInit {
     this.knot.title = event.target.value;
     console.log(this.knot.title);
   }
+
+
+
 }

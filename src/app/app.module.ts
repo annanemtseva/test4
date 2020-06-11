@@ -8,6 +8,7 @@ import {KnotComponent} from './knot/knot.component';
 import {HttpService} from './http.service';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
+
 @NgModule({
   declarations: [
     AppComponent,

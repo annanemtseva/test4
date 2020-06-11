@@ -33,8 +33,21 @@
   }
 }
 
+
+.btn-block{
+  margin-left: auto;
+}
+button {
+  background: none;
+  border: none;
+}
+
 .icon {
   width: 6px;
   height: 20px;
   margin-right: 5px;
+}
+.minus, .plus{
+  width: 15px;
+  height: 15px;
 }
