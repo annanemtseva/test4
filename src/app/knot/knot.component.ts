@@ -46,6 +46,7 @@ export class KnotComponent implements OnInit {
   @Input() parent: Tree;
   iconState = 'start';
   knotState = 'start';
+  newInput: string;
 
   constructor() {
   }
@@ -88,9 +89,8 @@ export class KnotComponent implements OnInit {
     event.stopPropagation();
   }
 
-  addTitle(event: Event) {
-    this.knot.title = event.target.value;
-    console.log(this.knot.title);
+  addTitle() {
+    this.knot.title = this.newInput;
   }
 
 

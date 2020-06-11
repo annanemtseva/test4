@@ -9,8 +9,9 @@
     <p>{{knot.title}}</p>
     <p *ngIf="knot.children.length"> ({{knot.children.length}})</p>
     <label>
-      <input placeholder="введите и нажмите enter" *ngIf="knot.title.length === 0"
-             (keyup.enter)="addTitle($event)">
+      <input placeholder="введите название" [(ngModel)]="newInput" *ngIf="knot.title.length === 0"
+             (keyup.enter)="addTitle()">
+      <button *ngIf="knot.title.length === 0" (click)="addTitle()">ok</button>
     </label>
     <div class="btn-block">
       <button *ngIf="knot.title.length > 0" type="button" (click)="addChildren($event)">
